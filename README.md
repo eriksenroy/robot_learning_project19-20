@@ -1,7 +1,7 @@
 # robot_learning_project19-20
 
-# First time installing
-## Open terminal:<br/>
+## First time installing
+### Open terminal:<br/>
   cd<br/>
   git clone https://github.com/eriksenroy/robot_learning_project19-20.git<br/>
   cd /robot_learning_project19-20/roblearning_ws<br/>
@@ -10,10 +10,10 @@
   source devel/setup.bash<br/>
   
   
-## To start simulation
+### To start simulation
   roslaunch ur_gazebo ur3.launch<br/>
   
-## To check with the incremental movement node<br/>
+### To check with the incremental movement node<br/>
   While the gazebo simulation is running, open another terminal window<br/>
   cd /robot_learning_project19-20/roblearning_ws<br/>
   source devel/setup.bash<br/>
@@ -22,7 +22,7 @@
   
 
 
-# If there is an warning that say that the JointTrajectory controller is not there<br/>
+### If there is an warning that say that the JointTrajectory controller is not there<br/>
   sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'<br/>
   sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654<br/>
   sudo apt-get update<br/>
