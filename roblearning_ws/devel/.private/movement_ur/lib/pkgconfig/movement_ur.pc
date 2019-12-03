@@ -1,0 +1,8 @@
+prefix=/home/roy/roblearning_ws/devel/.private/movement_ur
+
+Name: movement_ur
+Description: Description of movement_ur
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/roy/roblearning_ws/devel/.private/movement_ur/lib 
+Requires: 

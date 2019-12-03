@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target moveur3[0m
+[35m[1mScanning dependencies of target listenerjoints[0m
+[35m[1mScanning dependencies of target subandpub[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/listenerjoints.dir/src/listenerjoints.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/moveur3.dir/src/moveur3.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/subandpub.dir/src/subandpub.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/roy/roblearning_ws/devel/.private/movement_ur/lib/movement_ur/moveur3[0m
+[ 66%] Built target moveur3
+[ 83%] [32m[1mLinking CXX executable /home/roy/roblearning_ws/devel/.private/movement_ur/lib/movement_ur/listenerjoints[0m
+[ 83%] Built target listenerjoints
+[100%] [32m[1mLinking CXX executable /home/roy/roblearning_ws/devel/.private/movement_ur/lib/movement_ur/subandpub[0m
+[100%] Built target subandpub

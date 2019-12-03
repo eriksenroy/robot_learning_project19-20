@@ -1,0 +1,1 @@
+/home/roy/roblearning_ws/devel/.private/movement_ur/lib/pkgconfig/movement_ur.pc

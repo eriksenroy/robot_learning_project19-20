@@ -1,0 +1,6 @@
+Symlinking /home/roy/roblearning_ws/devel/lib/pkgconfig/movement_ur.pc
+Symlinking /home/roy/roblearning_ws/devel/lib/movement_ur/listenerjoints
+Symlinking /home/roy/roblearning_ws/devel/lib/movement_ur/moveur3
+Symlinking /home/roy/roblearning_ws/devel/lib/movement_ur/subandpub
+Symlinking /home/roy/roblearning_ws/devel/share/movement_ur/cmake/movement_urConfig.cmake
+Symlinking /home/roy/roblearning_ws/devel/share/movement_ur/cmake/movement_urConfig-version.cmake

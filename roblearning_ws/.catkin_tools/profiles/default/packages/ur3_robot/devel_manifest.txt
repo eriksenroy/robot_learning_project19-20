@@ -1,0 +1,5 @@
+ur3_robot
+/home/roy/roblearning_ws/devel/.private/ur3_robot/cmake.lock /home/roy/roblearning_ws/devel/./cmake.lock
+/home/roy/roblearning_ws/devel/.private/ur3_robot/lib/pkgconfig/ur3_robot.pc /home/roy/roblearning_ws/devel/lib/pkgconfig/ur3_robot.pc
+/home/roy/roblearning_ws/devel/.private/ur3_robot/share/ur3_robot/cmake/ur3_robotConfig.cmake /home/roy/roblearning_ws/devel/share/ur3_robot/cmake/ur3_robotConfig.cmake
+/home/roy/roblearning_ws/devel/.private/ur3_robot/share/ur3_robot/cmake/ur3_robotConfig-version.cmake /home/roy/roblearning_ws/devel/share/ur3_robot/cmake/ur3_robotConfig-version.cmake

@@ -1,0 +1,3 @@
+Symlinking /home/roy/roblearning_ws/devel/lib/pkgconfig/ur3_robot.pc
+Symlinking /home/roy/roblearning_ws/devel/share/ur3_robot/cmake/ur3_robotConfig.cmake
+Symlinking /home/roy/roblearning_ws/devel/share/ur3_robot/cmake/ur3_robotConfig-version.cmake

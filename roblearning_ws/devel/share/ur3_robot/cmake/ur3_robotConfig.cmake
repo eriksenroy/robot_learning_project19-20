@@ -1,0 +1,1 @@
+/home/roy/roblearning_ws/devel/.private/ur3_robot/share/ur3_robot/cmake/ur3_robotConfig.cmake

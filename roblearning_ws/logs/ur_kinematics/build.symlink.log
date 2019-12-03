@@ -1,0 +1,6 @@
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/lib/libur3_moveit_plugin.so, /home/roy/roblearning_ws/devel/lib/libur3_moveit_plugin.so)
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/lib/libur3_kin.so, /home/roy/roblearning_ws/devel/lib/libur3_kin.so)
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/lib/python2.7/dist-packages/ur_kinematics/__init__.py, /home/roy/roblearning_ws/devel/lib/python2.7/dist-packages/ur_kinematics/__init__.py)
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc, /home/roy/roblearning_ws/devel/lib/pkgconfig/ur_kinematics.pc)
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake, /home/roy/roblearning_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake)
+Linked: (/home/roy/roblearning_ws/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake, /home/roy/roblearning_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake)

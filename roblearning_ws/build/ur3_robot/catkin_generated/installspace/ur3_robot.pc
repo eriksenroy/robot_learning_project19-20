@@ -1,0 +1,8 @@
+prefix=/home/roy/roblearning_ws/install
+
+Name: ur3_robot
+Description: Description of ur3_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/roy/roblearning_ws/install/lib 
+Requires: 

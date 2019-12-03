@@ -1,0 +1,1 @@
+/home/roy/roblearning_ws/devel/.private/ur3_robot/lib/pkgconfig/ur3_robot.pc

@@ -1,0 +1,1 @@
+/home/roy/roblearning_ws/devel/.private/movement_ur/share/movement_ur/cmake/movement_urConfig-version.cmake
