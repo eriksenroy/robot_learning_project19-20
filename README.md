@@ -24,7 +24,9 @@
 
 ### If there is an warning that say that the JointTrajectory controller is not there<br/>
   `sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'`<br/>
+  <br/>
   `sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654`<br/>
+  <br/>
   `sudo apt-get update`<br/>
   `rosdep update`<br/>
   `echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc`<br/>
