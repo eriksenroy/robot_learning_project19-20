@@ -2,12 +2,12 @@
 
 ## First time installing
 ### Open terminal:<br/>
-  cd<br/>
-  git clone https://github.com/eriksenroy/robot_learning_project19-20.git<br/>
-  cd /robot_learning_project19-20/roblearning_ws<br/>
-  catkin clean<br/>
-  catkin build<br/>
-  source devel/setup.bash<br/>
+  `cd`<br/>
+  `git clone https://github.com/eriksenroy/robot_learning_project19-20.git`<br/>
+  `cd /robot_learning_project19-20/roblearning_ws`<br/>
+  `catkin clean`<br/>
+  `catkin build`<br/>
+  `source devel/setup.bash`<br/>
   
   
 ### To start simulation
